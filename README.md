@@ -5,6 +5,7 @@ Sou estudante de programação, atualmente focado em aprender tecnologias web co
 ### Em aprendizado:
 - HTML, CSS e JavaScript
 - Python
+- Java
 
 ### Projetos:
 - **Detonado de Pokémon Fire Red e Leaf Green**: Um guia detalhado em HTML.
